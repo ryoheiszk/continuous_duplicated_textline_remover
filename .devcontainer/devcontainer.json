@@ -1,0 +1,15 @@
+{
+	"dockerComposeFile": "../docker-compose.yml",
+	"service": "app",
+	"workspaceFolder": "/app",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+    "ms-python.python",
+		"ms-python.vscode-pylance",
+		"njpwerner.autodocstring",
+		"streetsidesoftware.code-spell-checker",
+		"ms-toolsai.jupyter"
+	]
+}
